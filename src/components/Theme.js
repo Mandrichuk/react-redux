@@ -24,4 +24,4 @@ function ChangeColor() {
   )
 }
 
-export default ChangeColor
+export default ChangeColor;
